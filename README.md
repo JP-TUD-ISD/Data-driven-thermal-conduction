@@ -4,6 +4,9 @@ A data-driven solver framework for thermal conduction applied to in-situ data. T
 ## Important notes:
 Currently, the simulation framework is only tested under Ubuntu 20.04. The directories are named after the sections of a scientific paper for which the source code is used. The files load.dat contain the load function for the surface. The values originate from the top sensor from the in-situ data. The values in between are linearly interpolated.
 
+## Required Packages
+For running these source codes matplotlib and numpy are required. The tested versions are: numpy 1.24.4 and matplotlib 3.7.5.
+
 ## Theory
 The source is utilized in a scientific publication, which is currently under review.
 
