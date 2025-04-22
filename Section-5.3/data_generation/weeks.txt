@@ -1,0 +1,5 @@
+File with meta data:
+
+first week is week 2 from param_plot.csv
+second week is week 3 from param_plot.csv
+third week is week 4 from param_plot.csv
